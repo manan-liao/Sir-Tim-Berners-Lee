@@ -97,3 +97,15 @@ p {
     background-color: dodgerblue;
 
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+a {
+    text-decoration: none;
+}
+
+.article:hover {
+    color: fuchsia;
+}
